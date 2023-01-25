@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sgatollo
 - 👀 I’m interested in coding, cryptocurrencies, metaverses, nft...
-- 🌱 I’m currently learning Javscript.
+- 🌱 I’m currently learning ...
 - 📫 How to reach me @Sgatollo#4314
 
 <!---
